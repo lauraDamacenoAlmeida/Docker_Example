@@ -1,7 +1,10 @@
 # Docker_Example
 # Como construir uma imagem no Docker?
-Este é um exemplo utilizado no artigo do Medium, com exemplos utilizados sobre a utilização de imagens no Docker.
-O exemplo em questão foi usado com o framework Flask.
+Este é um exemplo utilizado no artigo do Medium, com os arquivos utilizados sobre a construção de imagens no Docker.
+Foi utilizado neste artigo o framework Flask, do Python.
+
+Para instalar o Flask:
+pip install Flask
 
 # O que são imagens?
 Imagens são uma instância do arquivo Dockerfile em execução, funcionando como uma receita de bolo para a construção de um container.
