@@ -22,4 +22,4 @@ Nele descrevemos todas as configurações do projeto.
 - [x] Subir arquivo no Docker Hub
 
 
-Link do artigo: https://medium.com/nerdzao/ah-mas-na-minha-m%C3%A1quina-est%C3%A1-funcionando-como-resolver-esta-situa%C3%A7%C3%A3o-usando-docker-413c77c35f48
+[Artigo do Medium](https://medium.com/nerdzao/ah-mas-na-minha-m%C3%A1quina-est%C3%A1-funcionando-como-resolver-esta-situa%C3%A7%C3%A3o-usando-docker-413c77c35f48)
